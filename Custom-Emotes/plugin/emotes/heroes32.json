@@ -4,7 +4,7 @@
         "+yes": {
             "size": 20,
             "type": "image",
-            "url": "https://imgur.com/vuV5cER.png"
+            "url": "https://i.imgur.com/vuV5cER.png"
         },
         "+wink": {
             "size": 20,
@@ -14,7 +14,7 @@
 	"+mad": {
 	    "size": 20,
 	    "type": "image",
-	    "url": "https://imgur.com/zfn5i9O"
+	    "url": "https://i.imgur.com/zfn5i9O"
 	}
     }
 }
