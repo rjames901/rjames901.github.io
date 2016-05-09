@@ -70,6 +70,11 @@
 			"size": 20,
 			"type": "image",
 			"url": "https://i.imgur.com/dKCpvaG.png"
+		},
+		"+fight": {
+			"size": 20,
+			"type": "image",
+			"url": "https://i.imgur.com/m6Jx1GQ.png"
 		}
 	}
 }
