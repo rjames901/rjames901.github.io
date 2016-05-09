@@ -95,6 +95,16 @@
 			"size": 20,
 			"type": "image",
 			"url": "https://i.imgur.com/lpxBX29.png"
+		},
+		"+kiss": {
+			"size": 20,
+			"type": "image",
+			"url": "https://i.imgur.com/dWNS4s7.png"
+		},
+		"+love": {
+			"size": 20,
+			"type": "image",
+			"url": "https://i.imgur.com/5e0KXiD.png"
 		}
 	}
 }
