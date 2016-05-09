@@ -1,0 +1,110 @@
+{
+	"name": "heroes",
+	"emotes": {
+		"+yes": {
+			"size": 20,
+			"type": "image",
+			"url": "https://imgur.com/vuV5cER.png"
+		},
+		"+wink": {
+			"size": 20,
+			"type": "image",
+			"url": "https://i.imgur.com/HnhFMJm.png"
+		},
+		"+mad": {
+			"size": 20,
+			"type": "image",
+			"url": "https://i.imgur.com/zfn5i9O.png"
+		},
+		"+best": {
+			"size": 20,
+			"type": "image",
+			"url": "https://i.imgur.com/oaQ1J3H.png"
+		},
+		"+call": {
+			"size": 20,
+			"type": "image",
+			"url": "https://i.imgur.com/CVxZB60.png"
+		},
+		"+calm": {
+			"size": 20,
+			"type": "image",
+			"url": "https://i.imgur.com/BbqBmVH.png"
+		},
+		"+yay": {
+			"size": 20,
+			"type": "image",
+			"url": "https://i.imgur.com/hkewSOw.png"
+		},
+		"+cold": {
+			"size": 20,
+			"type": "image",
+			"url": "https://i.imgur.com/hIi5Cz3.png"
+		},
+		"+cool": {
+			"size": 20,
+			"type": "image",
+			"url": "https://i.imgur.com/BXMLlxv.png"
+		},
+		"+coffee": {
+			"size": 20,
+			"type": "image",
+			"url": "https://i.imgur.com/4Ws2kro.png"
+		},
+		"+cry": {
+			"size": 20,
+			"type": "image",
+			"url": "https://i.imgur.com/LtGtdAx.png"
+		},
+		"+sad": {
+			"size": 20,
+			"type": "image",
+			"url": "https://i.imgur.com/x7EVLK3.png"
+		},
+		"+dizzy": {
+			"size": 20,
+			"type": "image",
+			"url": "https://i.imgur.com/N5D1rDg.png"
+		},
+		"+drunk": {
+			"size": 20,
+			"type": "image",
+			"url": "https://i.imgur.com/dKCpvaG.png"
+		},
+		"+fight": {
+			"size": 20,
+			"type": "image",
+			"url": "https://i.imgur.com/m6Jx1GQ.png"
+		},
+		"+heart": {
+			"size": 20,
+			"type": "image",
+			"url": "https://i.imgur.com/y8xEZGS.png"
+		},
+		"+hello": {
+			"size": 20,
+			"type": "image",
+			"url": "https://i.imgur.com/D0vFF3c.png"
+		},
+		"+haha": {
+			"size": 20,
+			"type": "image",
+			"url": "https://i.imgur.com/Fb38SlS.png"
+		},
+		"+joy": {
+			"size": 20,
+			"type": "image",
+			"url": "https://i.imgur.com/lpxBX29.png"
+		},
+		"+kiss": {
+			"size": 20,
+			"type": "image",
+			"url": "https://i.imgur.com/dWNS4s7.png"
+		},
+		"+love": {
+			"size": 20,
+			"type": "image",
+			"url": "https://i.imgur.com/5e0KXiD.png"
+		}
+	}
+}
