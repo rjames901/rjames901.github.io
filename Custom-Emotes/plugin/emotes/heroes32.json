@@ -30,6 +30,16 @@
 			"size": 20,
 			"type": "image",
 			"url": "https://i.imgur.com/BbqBmVH.png"
+		},
+		"+yay": {
+			"size": 20,
+			"type": "image",
+			"url": "https://i.imgur.com/hkewSOw.png"
+		},
+		"+coffee": {
+			"size": 20,
+			"type": "image",
+			"url": "https://i.imgur.com/4Ws2kro.png"
 		}
 	}
 }
