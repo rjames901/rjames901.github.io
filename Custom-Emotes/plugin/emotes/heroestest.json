@@ -125,6 +125,26 @@
 			"size": 20,
 			"type": "image",
 			"url": "https://i.imgur.com/eWj6xbi.png"
+		},
+		"+shy": {
+		    "size": 20,
+			"type": "image",
+			"url": "https://i.imgur.com/IgN3Ogx.png"
+		},
+		"+sigh": {
+		    "size": 20,
+			"type": "image",
+			"url": "https://i.imgur.com/G3UudK7.png"
+		},
+		"+sleepy": {
+		    "size": 20,
+			"type": "image",
+			"url": "https://i.imgur.com/nSC45EF.png"
+		},
+		"+smile": {
+		    "size": 20,
+			"type": "image",
+			"url": "https://i.imgur.com/gi8V2cE.png"
 		}
 	}
 }
