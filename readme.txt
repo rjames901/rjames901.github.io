@@ -10,3 +10,25 @@ Better Discord IS required so have it installed.
 8.) Then add https://rjames901.github.io/Custom-Emotes/plugin/emotes/heroes32.json and check the box on the right of it
 9.) Test away (Discord may need to be restarted after adding my json repo)
 10.) Enjoy
+
+Currently active emotes
+
++yes 
++wink 
++mad 
++best 
++calm 
++yay 
++cold 
++cool 
++coffee 
++cry 
++sad 
++dizzy 
++drunk 
++fight 
++heart 
++hello 
++joy 
++kiss 
++love
