@@ -1,0 +1,15 @@
+{
+	"name":	"heroes",{
+	"emotes": {
+		"+yes": {
+			"size": 32,
+			"type": "image",
+			"url": "http://imgur.com/vuV5cER"
+		}
+		"+wink": {
+			"size" 32,
+			"type": "image",
+			"url": "http://i.imgur.com/HnhFMJm.png"
+		}
+	}
+}
