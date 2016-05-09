@@ -105,6 +105,61 @@
 			"size": 20,
 			"type": "image",
 			"url": "https://i.imgur.com/5e0KXiD.png"
+		},
+		"+tongue": {
+			"size": 20,
+			"type": "image",
+			"url": "https://i.imgur.com/KjqINIO.png"
+		},
+		"+pain": {
+			"size": 20,
+			"type": "image",
+			"url": "https://i.imgur.com/4uBE2xr.png"
+		},
+		"+quiet": {
+			"size": 20,
+			"type": "image",
+			"url": "https://i.imgur.com/eXjgwRb.png"
+		},
+		"+no": {
+			"size": 20,
+			"type": "image",
+			"url": "https://i.imgur.com/eWj6xbi.png"
+		},
+		"+shy": {
+			"size": 20,
+			"type": "image",
+			"url": "https://i.imgur.com/IgN3Ogx.png"
+		},
+		"+sigh": {
+			"size": 20,
+			"type": "image",
+			"url": "https://i.imgur.com/G3UudK7.png"
+		},
+		"+sleepy": {
+			"size": 20,
+			"type": "image",
+			"url": "https://i.imgur.com/nSC45EF.png"
+		},
+		"+smile": {
+			"size": 20,
+			"type": "image",
+			"url": "https://i.imgur.com/gi8V2cE.png"
+		},
+		"+wow": {
+			"size": 20,
+			"type": "image",
+			"url": "https://i.imgur.com/vxeQ9Wo.png"
+		},
+		"+sweat": {
+			"size": 20,
+			"type": "image",
+			"url": "https://i.imgur.com/6Dr9Xeh.png"
+		},
+		"+ebie": {
+			"size": 50,
+			"type": "image",
+			"url": "https://i.imgur.com/m8fnLa4.png"
 		}
 	}
 }
