@@ -4,12 +4,12 @@
         "+yes": {
             "size": 32,
             "type": "image",
-            "url": "http://imgur.com/vuV5cER"
+            "url": "https://imgur.com/vuV5cER.png"
         },
         "+wink": {
             "size": 32,
             "type": "image",
-            "url": "http://i.imgur.com/HnhFMJm.png"
+            "url": "https://i.imgur.com/HnhFMJm.png"
         }
     }
 }
