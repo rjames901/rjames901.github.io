@@ -1,3 +1,5 @@
+Better Discord IS required so have it installed.
+
 1.) Unzip plugins.rar
 2.) place the 2 files in %appdata%\Roaming\BetterDiscord\plugins
 3.) Restart Discord then go to Options
