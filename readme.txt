@@ -13,22 +13,5 @@ Better Discord IS required so have it installed.
 
 Currently active emotes
 
-+yes 
-+wink 
-+mad 
-+best 
-+calm 
-+yay 
-+cold 
-+cool 
-+coffee 
-+cry 
-+sad 
-+dizzy 
-+drunk 
-+fight 
-+heart 
-+hello 
-+joy 
-+kiss 
-+love
+All NA Emotes are enabled.
++ebie is enabled.
