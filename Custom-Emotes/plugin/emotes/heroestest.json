@@ -240,6 +240,41 @@
 			"size": 20,
 			"type": "image",
 			"url": "https://i.imgur.com/D0vFF3c.png"
+		},
+		"+흐흐": {
+			"size": 20,
+			"type": "image",
+			"url": "https://i.imgur.com/Fb38SlS.png"
+		},
+		"+기쁨": {
+			"size": 20,
+			"type": "image",
+			"url": "https://i.imgur.com/lpxBX29.png"
+		},
+		"+뽀뽀": {
+			"size": 20,
+			"type": "image",
+			"url": "https://i.imgur.com/dWNS4s7.png"
+		},
+		"+사랑": {
+			"size": 20,
+			"type": "image",
+			"url": "https://i.imgur.com/5e0KXiD.png"
+		},
+		"+메롱": {
+			"size": 20,
+			"type": "image",
+			"url": "https://i.imgur.com/KjqINIO.png"
+		},
+		"+아픔": {
+			"size": 20,
+			"type": "image",
+			"url": "https://i.imgur.com/4uBE2xr.png"
+		},
+		"+쉿": {
+			"size": 20,
+			"type": "image",
+			"url": "https://i.imgur.com/eXjgwRb.png"
 		}
 	}
 }
