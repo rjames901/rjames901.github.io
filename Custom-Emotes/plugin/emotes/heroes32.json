@@ -160,6 +160,166 @@
 			"size": 50,
 			"type": "image",
 			"url": "https://i.imgur.com/m8fnLa4.png"
+		},
+		"+동의": {
+			"size": 20,
+			"type": "image",
+			"url": "https://i.imgur.com/vuV5cER.png"
+		},
+		"+화남": {
+			"size": 20,
+			"type": "image",
+			"url": "https://i.imgur.com/zfn5i9O.png"
+		},
+		"+짱": {
+			"size": 20,
+			"type": "image",
+			"url": "https://i.imgur.com/oaQ1J3H.png"
+		},
+		"+잔화중": {
+			"size": 20,
+			"type": "image",
+			"url": "https://i.imgur.com/CVxZB60.png"
+		},
+		"+죽하": {
+			"size": 20,
+			"type": "image",
+			"url": "https://i.imgur.com/hkewSOw.png"
+		},
+		"+덤덤": {
+			"size": 20,
+			"type": "image",
+			"url": "https://i.imgur.com/BbqBmVH.png"
+		},
+		"+커피": {
+			"size": 20,
+			"type": "image",
+			"url": "https://i.imgur.com/zed8j8H.png"
+		},
+		"+주워": {
+			"size": 20,
+			"type": "image",
+			"url": "https://i.imgur.com/hIi5Cz3.png"
+		},
+		"+자신감": {
+			"size": 20,
+			"type": "image",
+			"url": "https://i.imgur.com/BXMLlxv.png"
+		},
+		"+울음": {
+			"size": 20,
+			"type": "image",
+			"url": "https://i.imgur.com/LtGtdAx.png"
+		},
+		"+실망": {
+			"size": 20,
+			"type": "image",
+			"url": "https://i.imgur.com/x7EVLK3.png"
+		},
+		"+빙글": {
+			"size": 20,
+			"type": "image",
+			"url": "https://i.imgur.com/N5D1rDg.png"
+		},
+		"+쥐함": {
+			"size": 20,
+			"type": "image",
+			"url": "https://i.imgur.com/dKCpvaG.png"
+		},
+		"+화이팅": {
+			"size": 20,
+			"type": "image",
+			"url": "https://i.imgur.com/m6Jx1GQ.png"
+		},
+		"+하트": {
+			"size": 20,
+			"type": "image",
+			"url": "https://i.imgur.com/y8xEZGS.png"
+		},
+		"+안녕": {
+			"size": 20,
+			"type": "image",
+			"url": "https://i.imgur.com/D0vFF3c.png"
+		},
+		"+흐흐": {
+			"size": 20,
+			"type": "image",
+			"url": "https://i.imgur.com/Fb38SlS.png"
+		},
+		"+기쁨": {
+			"size": 20,
+			"type": "image",
+			"url": "https://i.imgur.com/lpxBX29.png"
+		},
+		"+뽀뽀": {
+			"size": 20,
+			"type": "image",
+			"url": "https://i.imgur.com/dWNS4s7.png"
+		},
+		"+사랑": {
+			"size": 20,
+			"type": "image",
+			"url": "https://i.imgur.com/5e0KXiD.png"
+		},
+		"+메롱": {
+			"size": 20,
+			"type": "image",
+			"url": "https://i.imgur.com/KjqINIO.png"
+		},
+		"+아픔": {
+			"size": 20,
+			"type": "image",
+			"url": "https://i.imgur.com/4uBE2xr.png"
+		},
+		"+쉿": {
+			"size": 20,
+			"type": "image",
+			"url": "https://i.imgur.com/eXjgwRb.png"
+		},
+		"+거부": {
+			"size": 20,
+			"type": "image",
+			"url": "https://i.imgur.com/eWj6xbi.png"
+		},
+		"+부끄": {
+			"size": 20,
+			"type": "image",
+			"url": "https://i.imgur.com/IgN3Ogx.png"
+		},
+		"+한숨": {
+			"size": 20,
+			"type": "image",
+			"url": "https://i.imgur.com/G3UudK7.png"
+		},
+		"+졸림": {
+			"size": 20,
+			"type": "image",
+			"url": "https://i.imgur.com/nSC45EF.png"
+		},
+		"+웃음": {
+			"size": 20,
+			"type": "image",
+			"url": "https://i.imgur.com/gi8V2cE.png"
+		},
+		"+놀람": {
+			"size": 20,
+			"type": "image",
+			"url": "https://i.imgur.com/vxeQ9Wo.png"
+		},
+		"+띰": {
+			"size": 20,
+			"type": "image",
+			"url": "https://i.imgur.com/6Dr9Xeh.png"
+		},
+		"+윙크": {
+			"size": 20,
+			"type": "image",
+			"url": "https://i.imgur.com/HnhFMJm.png"
+		},
+		"+이비": {
+			"size": 50,
+			"type": "image",
+			"url": "https://i.imgur.com/I0pJCB2.png"
 		}
 	}
 }
