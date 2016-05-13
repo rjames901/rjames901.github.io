@@ -320,6 +320,141 @@
 			"size": 50,
 			"type": "image",
 			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/ebie.png"
+		},
+		"+ja": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/yes.png"
+		},
+		"+wütend": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/mad.png"
+		},
+		"+top": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/best.png"
+		},
+		"+tele": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/call.png"
+		},
+		"+ruhig": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/calm"
+		},
+		"+kaffee": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/coffee.png"
+		},
+		"+kalt": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/cold.png"
+		},
+		"+heul": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/cry.png"
+		},
+		"+traurig": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/sad.png"
+		},
+		"+verwirrt": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/dizzy"
+		},
+		"+betrunken": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/drunk.png"
+		},
+		"+faust": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/fight.png"
+		},
+		"+herz": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/heart.png"
+		},
+		"+hallo": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/hello.png"
+		},
+		"+lol": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/joy.png"
+		},
+		"+küss": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/kiss.png"
+		},
+		"+liebe": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/love.png"
+		},
+		"+zunge": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/tongue.png"
+		},
+		"+krank": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/pain.png"
+		},
+		"+still": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/quiet.png"
+		},
+		"+nein": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/no.png"
+		},
+		"+scheu": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/shy.png"
+		},
+		"+seufz": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/sigh.png"
+		},
+		"+schlaf": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/sleepy.png"
+		},
+		"+grins": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/smile.png"
+		},
+		"+schwitz": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/sweat.png"
+		},
+		"+zwinker": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/wink.png"
 		}
 	}
 }
