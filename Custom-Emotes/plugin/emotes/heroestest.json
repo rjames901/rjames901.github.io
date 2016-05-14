@@ -369,7 +369,7 @@
 		"+verwirrt": {
 			"size": 20,
 			"type": "image",
-			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/dizzy"
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/dizzy.png"
 		},
 		"+betrunken": {
 			"size": 20,
@@ -625,6 +625,151 @@
 			"size": 20,
 			"type": "image",
 			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/mad.png"
+		},
+		"+最高": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/best.png"
+		},
+		"+電話中": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/call.png"
+		},
+		"+おめでとう": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/yay.png"
+		},
+		"+ふーん": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/calm.png"
+		},
+		"+休憩中": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/coffee.png"
+		},
+		"+寒い": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/cold.png"
+		},
+		"+クール": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/cool.png"
+		},
+		"+泣く": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/cry.png"
+		},
+		"+がっかり": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/sad.png"
+		},
+		"+くらくら": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/dizzy.png"
+		},
+		"+ビール": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/drunk.png"
+		},
+		"+頑張れ": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/fight.png"
+		},
+		"+ハート": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/heart.png"
+		},
+		"+こんにちは": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/hello.png"
+		},
+		"+くすくす": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/haha.png"
+		},
+		"+嬉しい": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/joy.png"
+		},
+		"+キス": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/kiss.png"
+		},
+		"+好き": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/love.png"
+		},
+		"+ベー": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/tongue.png"
+		},
+		"+痛い": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/pain.png"
+		},
+		"+静かに": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/quiet.png"
+		},
+		"+やだ": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/no.png"
+		},
+		"+照れ": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/shy.png"
+		},
+		"+ため息": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/sigh.png"
+		},
+		"+眠い": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/sleepy.png"
+		},
+		"+にこ": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/smile.png"
+		},
+		"+びっくり": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/wow.png"
+		},
+		"+汗": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/sweat.png"
+		},
+		"+ウィンク": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/wink.png"
 		}
 	}
 }
