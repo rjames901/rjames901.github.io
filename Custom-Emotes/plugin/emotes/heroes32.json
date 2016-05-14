@@ -4,322 +4,772 @@
 		"+yes": {
 			"size": 20,
 			"type": "image",
-			"url": "https://imgur.com/vuV5cER.png"
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/yes.png"
 		},
 		"+wink": {
 			"size": 20,
 			"type": "image",
-			"url": "https://i.imgur.com/HnhFMJm.png"
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/wink.png"
 		},
 		"+mad": {
 			"size": 20,
 			"type": "image",
-			"url": "https://i.imgur.com/zfn5i9O.png"
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/mad.png"
 		},
 		"+best": {
 			"size": 20,
 			"type": "image",
-			"url": "https://i.imgur.com/oaQ1J3H.png"
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/best.png"
 		},
 		"+call": {
 			"size": 20,
 			"type": "image",
-			"url": "https://i.imgur.com/CVxZB60.png"
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/call.png"
 		},
 		"+calm": {
 			"size": 20,
 			"type": "image",
-			"url": "https://i.imgur.com/BbqBmVH.png"
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/calm.png"
 		},
 		"+yay": {
 			"size": 20,
 			"type": "image",
-			"url": "https://i.imgur.com/hkewSOw.png"
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/yay.png"
 		},
 		"+cold": {
 			"size": 20,
 			"type": "image",
-			"url": "https://i.imgur.com/hIi5Cz3.png"
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/cold.png"
 		},
 		"+cool": {
 			"size": 20,
 			"type": "image",
-			"url": "https://i.imgur.com/BXMLlxv.png"
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/cool.png"
 		},
 		"+coffee": {
 			"size": 20,
 			"type": "image",
-			"url": "https://i.imgur.com/4Ws2kro.png"
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/coffee.png"
 		},
 		"+cry": {
 			"size": 20,
 			"type": "image",
-			"url": "https://i.imgur.com/LtGtdAx.png"
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/cry.png"
 		},
 		"+sad": {
 			"size": 20,
 			"type": "image",
-			"url": "https://i.imgur.com/x7EVLK3.png"
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/sad.png"
 		},
 		"+dizzy": {
 			"size": 20,
 			"type": "image",
-			"url": "https://i.imgur.com/N5D1rDg.png"
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/dizzy.png"
 		},
 		"+drunk": {
 			"size": 20,
 			"type": "image",
-			"url": "https://i.imgur.com/dKCpvaG.png"
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/drunk.png"
 		},
 		"+fight": {
 			"size": 20,
 			"type": "image",
-			"url": "https://i.imgur.com/m6Jx1GQ.png"
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/fight.png"
 		},
 		"+heart": {
 			"size": 20,
 			"type": "image",
-			"url": "https://i.imgur.com/y8xEZGS.png"
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/heart.png"
 		},
 		"+hello": {
 			"size": 20,
 			"type": "image",
-			"url": "https://i.imgur.com/D0vFF3c.png"
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/hello.png"
 		},
 		"+haha": {
 			"size": 20,
 			"type": "image",
-			"url": "https://i.imgur.com/Fb38SlS.png"
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/haha.png"
 		},
 		"+joy": {
 			"size": 20,
 			"type": "image",
-			"url": "https://i.imgur.com/lpxBX29.png"
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/joy.png"
 		},
 		"+kiss": {
 			"size": 20,
 			"type": "image",
-			"url": "https://i.imgur.com/dWNS4s7.png"
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/kiss.png"
 		},
 		"+love": {
 			"size": 20,
 			"type": "image",
-			"url": "https://i.imgur.com/5e0KXiD.png"
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/lone.png"
 		},
 		"+tongue": {
 			"size": 20,
 			"type": "image",
-			"url": "https://i.imgur.com/KjqINIO.png"
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/tongue.png"
 		},
 		"+pain": {
 			"size": 20,
 			"type": "image",
-			"url": "https://i.imgur.com/4uBE2xr.png"
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/pain.png"
 		},
 		"+quiet": {
 			"size": 20,
 			"type": "image",
-			"url": "https://i.imgur.com/eXjgwRb.png"
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/quiet.png"
 		},
 		"+no": {
 			"size": 20,
 			"type": "image",
-			"url": "https://i.imgur.com/eWj6xbi.png"
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/no.png"
 		},
 		"+shy": {
 			"size": 20,
 			"type": "image",
-			"url": "https://i.imgur.com/IgN3Ogx.png"
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/shy.png"
 		},
 		"+sigh": {
 			"size": 20,
 			"type": "image",
-			"url": "https://i.imgur.com/G3UudK7.png"
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/sigh.png"
 		},
 		"+sleepy": {
 			"size": 20,
 			"type": "image",
-			"url": "https://i.imgur.com/nSC45EF.png"
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/sleepy.png"
 		},
 		"+smile": {
 			"size": 20,
 			"type": "image",
-			"url": "https://i.imgur.com/gi8V2cE.png"
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/smile.png"
 		},
 		"+wow": {
 			"size": 20,
 			"type": "image",
-			"url": "https://i.imgur.com/vxeQ9Wo.png"
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/wow.png"
 		},
 		"+sweat": {
 			"size": 20,
 			"type": "image",
-			"url": "https://i.imgur.com/6Dr9Xeh.png"
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/sweat.png"
 		},
 		"+ebie": {
 			"size": 50,
 			"type": "image",
-			"url": "https://i.imgur.com/m8fnLa4.png"
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/ebie.png"
 		},
 		"+동의": {
 			"size": 20,
 			"type": "image",
-			"url": "https://i.imgur.com/vuV5cER.png"
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/yes.png"
 		},
 		"+화남": {
 			"size": 20,
 			"type": "image",
-			"url": "https://i.imgur.com/zfn5i9O.png"
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/mad.png"
 		},
 		"+짱": {
 			"size": 20,
 			"type": "image",
-			"url": "https://i.imgur.com/oaQ1J3H.png"
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/best.png"
 		},
 		"+잔화중": {
 			"size": 20,
 			"type": "image",
-			"url": "https://i.imgur.com/CVxZB60.png"
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/call.png"
 		},
 		"+죽하": {
 			"size": 20,
 			"type": "image",
-			"url": "https://i.imgur.com/hkewSOw.png"
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/yay.png"
 		},
 		"+덤덤": {
 			"size": 20,
 			"type": "image",
-			"url": "https://i.imgur.com/BbqBmVH.png"
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/calm.png"
 		},
 		"+커피": {
 			"size": 20,
 			"type": "image",
-			"url": "https://i.imgur.com/zed8j8H.png"
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/coffee.png"
 		},
 		"+주워": {
 			"size": 20,
 			"type": "image",
-			"url": "https://i.imgur.com/hIi5Cz3.png"
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/cold.png"
 		},
 		"+자신감": {
 			"size": 20,
 			"type": "image",
-			"url": "https://i.imgur.com/BXMLlxv.png"
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/cool.png"
 		},
 		"+울음": {
 			"size": 20,
 			"type": "image",
-			"url": "https://i.imgur.com/LtGtdAx.png"
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/cry.png"
 		},
 		"+실망": {
 			"size": 20,
 			"type": "image",
-			"url": "https://i.imgur.com/x7EVLK3.png"
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/sad.png"
 		},
 		"+빙글": {
 			"size": 20,
 			"type": "image",
-			"url": "https://i.imgur.com/N5D1rDg.png"
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/dizzy.png"
 		},
 		"+쥐함": {
 			"size": 20,
 			"type": "image",
-			"url": "https://i.imgur.com/dKCpvaG.png"
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/drunk.png"
 		},
 		"+화이팅": {
 			"size": 20,
 			"type": "image",
-			"url": "https://i.imgur.com/m6Jx1GQ.png"
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/fight.png"
 		},
 		"+하트": {
 			"size": 20,
 			"type": "image",
-			"url": "https://i.imgur.com/y8xEZGS.png"
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/heart.png"
 		},
 		"+안녕": {
 			"size": 20,
 			"type": "image",
-			"url": "https://i.imgur.com/D0vFF3c.png"
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/hello.png"
 		},
 		"+흐흐": {
 			"size": 20,
 			"type": "image",
-			"url": "https://i.imgur.com/Fb38SlS.png"
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/haha.png"
 		},
 		"+기쁨": {
 			"size": 20,
 			"type": "image",
-			"url": "https://i.imgur.com/lpxBX29.png"
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/joy.png"
 		},
 		"+뽀뽀": {
 			"size": 20,
 			"type": "image",
-			"url": "https://i.imgur.com/dWNS4s7.png"
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/kiss.png"
 		},
 		"+사랑": {
 			"size": 20,
 			"type": "image",
-			"url": "https://i.imgur.com/5e0KXiD.png"
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/love.png"
 		},
 		"+메롱": {
 			"size": 20,
 			"type": "image",
-			"url": "https://i.imgur.com/KjqINIO.png"
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/tongue.png"
 		},
 		"+아픔": {
 			"size": 20,
 			"type": "image",
-			"url": "https://i.imgur.com/4uBE2xr.png"
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/pain.png"
 		},
 		"+쉿": {
 			"size": 20,
 			"type": "image",
-			"url": "https://i.imgur.com/eXjgwRb.png"
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/quiet.png"
 		},
 		"+거부": {
 			"size": 20,
 			"type": "image",
-			"url": "https://i.imgur.com/eWj6xbi.png"
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/no.png"
 		},
 		"+부끄": {
 			"size": 20,
 			"type": "image",
-			"url": "https://i.imgur.com/IgN3Ogx.png"
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/shy.png"
 		},
 		"+한숨": {
 			"size": 20,
 			"type": "image",
-			"url": "https://i.imgur.com/G3UudK7.png"
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/sigh.png"
 		},
 		"+졸림": {
 			"size": 20,
 			"type": "image",
-			"url": "https://i.imgur.com/nSC45EF.png"
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/sleepy.png"
 		},
 		"+웃음": {
 			"size": 20,
 			"type": "image",
-			"url": "https://i.imgur.com/gi8V2cE.png"
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/smile.png"
 		},
 		"+놀람": {
 			"size": 20,
 			"type": "image",
-			"url": "https://i.imgur.com/vxeQ9Wo.png"
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/wow.png"
 		},
 		"+띰": {
 			"size": 20,
 			"type": "image",
-			"url": "https://i.imgur.com/6Dr9Xeh.png"
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/sweat.png"
 		},
 		"+윙크": {
 			"size": 20,
 			"type": "image",
-			"url": "https://i.imgur.com/HnhFMJm.png"
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/wink.png"
 		},
 		"+이비": {
 			"size": 50,
 			"type": "image",
-			"url": "https://i.imgur.com/I0pJCB2.png"
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/ebie.png"
+		},
+		"+ja": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/yes.png"
+		},
+		"+wütend": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/mad.png"
+		},
+		"+top": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/best.png"
+		},
+		"+tele": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/call.png"
+		},
+		"+ruhig": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/calm"
+		},
+		"+kaffee": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/coffee.png"
+		},
+		"+kalt": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/cold.png"
+		},
+		"+heul": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/cry.png"
+		},
+		"+traurig": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/sad.png"
+		},
+		"+verwirrt": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/dizzy.png"
+		},
+		"+betrunken": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/drunk.png"
+		},
+		"+faust": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/fight.png"
+		},
+		"+herz": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/heart.png"
+		},
+		"+hallo": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/hello.png"
+		},
+		"+lol": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/joy.png"
+		},
+		"+küss": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/kiss.png"
+		},
+		"+liebe": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/love.png"
+		},
+		"+zunge": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/tongue.png"
+		},
+		"+krank": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/pain.png"
+		},
+		"+still": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/quiet.png"
+		},
+		"+nein": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/no.png"
+		},
+		"+scheu": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/shy.png"
+		},
+		"+seufz": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/sigh.png"
+		},
+		"+schlaf": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/sleepy.png"
+		},
+		"+grins": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/smile.png"
+		},
+		"+schwitz": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/sweat.png"
+		},
+		"+zwinker": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/wink.png"
+		},
+		"+同意": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/yes.png"
+		},
+		"+憤怒": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/mad.png"
+		},
+		"+讚": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/best.png"
+		},
+		"+通話中": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/call.png"
+		},
+		"+恭喜": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/yay.png"
+		},
+		"+無言": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/calm.png"
+		},
+		"+喝咖啡": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/coffee.png"
+		},
+		"+感冒": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/cold.png"
+		},
+		"+得意": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/cool.png"
+		},
+		"+大哭": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/cry.png"
+		},
+		"+錯愕": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/sad.png"
+		},
+		"+昏迷": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/dizzy.png"
+		},
+		"+陶醉": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/drunk.png"
+		},
+		"+加油": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/fight.png"
+		},
+		"+愛心": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/heart.png"
+		},
+		"+打招呼": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/hello.png"
+		},
+		"+呵呵": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/haha.png"
+		},
+		"+大笑": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/joy.png"
+		},
+		"+親一個": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/kiss.png"
+		},
+		"+心動": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/love.png"
+		},
+		"+吐舌頭": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/tongue.png"
+		},
+		"+發燒": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/pain.png"
+		},
+		"+鼻涕": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/quiet.png"
+		},
+		"+拒絕": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/no.png"
+		},
+		"+害羞": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/shy.png"
+		},
+		"+嘆氣": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/sigh.png"
+		},
+		"+想睡覺": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/sleepy.png"
+		},
+		"+笑臉": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/smile.png"
+		},
+		"+驚訝": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/wow.png"
+		},
+		"+汗": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/sweat.png"
+		},
+		"+眨眼睛": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/wink.png"
+		},
+		"+伊菲": {
+			"size": 50,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/ebie.png"
+		},
+		"+いいよ": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/yes.png"
+		},
+		"+激怒": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/mad.png"
+		},
+		"+最高": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/best.png"
+		},
+		"+電話中": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/call.png"
+		},
+		"+おめでとう": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/yay.png"
+		},
+		"+ふーん": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/calm.png"
+		},
+		"+休憩中": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/coffee.png"
+		},
+		"+寒い": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/cold.png"
+		},
+		"+クール": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/cool.png"
+		},
+		"+泣く": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/cry.png"
+		},
+		"+がっかり": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/sad.png"
+		},
+		"+くらくら": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/dizzy.png"
+		},
+		"+ビール": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/drunk.png"
+		},
+		"+頑張れ": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/fight.png"
+		},
+		"+ハート": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/heart.png"
+		},
+		"+こんにちは": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/hello.png"
+		},
+		"+くすくす": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/haha.png"
+		},
+		"+嬉しい": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/joy.png"
+		},
+		"+キス": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/kiss.png"
+		},
+		"+好き": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/love.png"
+		},
+		"+ベー": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/tongue.png"
+		},
+		"+痛い": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/pain.png"
+		},
+		"+静かに": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/quiet.png"
+		},
+		"+やだ": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/no.png"
+		},
+		"+照れ": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/shy.png"
+		},
+		"+ため息": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/sigh.png"
+		},
+		"+眠い": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/sleepy.png"
+		},
+		"+にこ": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/smile.png"
+		},
+		"+びっくり": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/wow.png"
+		},
+		"+汗": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/sweat.png"
+		},
+		"+ウィンク": {
+			"size": 20,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/wink.png"
 		}
 	}
 }
