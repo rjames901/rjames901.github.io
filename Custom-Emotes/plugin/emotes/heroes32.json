@@ -845,6 +845,91 @@
 			"size": 30,
 			"type": "image",
 			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/flyff/Kiss.png"
+		},
+		"-lol": {
+			"size": 30,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/flyff/Laugh.png"
+		},
+		"-love": {
+			"size": 30,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/flyff/Love.png"
+		},
+		"-mad": {
+			"size": 30,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/flyff/Mad.png"
+		},
+		"-oh": {
+			"size": 30,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/flyff/Oh.png"
+		},
+		"-ouch": {
+			"size": 30,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/flyff/Ouch.png"
+		},
+		"-rich": {
+			"size": 30,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/flyff/Rich.png"
+		},
+		"-ridicule": {
+			"size": 30,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/flyff/Ridicule.png"
+		},
+		"-cry": {
+			"size": 30,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/flyff/Sad.png"
+		},
+		"-sigh": {
+			"size": 30,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/flyff/Sigh.png"
+		},
+		"-sleepy": {
+			"size": 30,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/flyff/Sleepy.png"
+		},
+		"-sneer": {
+			"size": 30,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/flyff/Sneer.png"
+		},
+		"-oooh": {
+			"size": 30,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/flyff/Sparkle.png"
+		},
+		"-what": {
+			"size": 30,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/flyff/Surprise.png"
+		},
+		"-worry": {
+			"size": 30,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/flyff/Sweat.png"
+		},
+		"-pffft": {
+			"size": 30,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/flyff/Tongue.png"
+		},
+		"-wink": {
+			"size": 30,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/flyff/Wink.png"
+		},
+		"-yummy": {
+			"size": 30,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/flyff/Yummy.png"
 		}
 	}
 }
