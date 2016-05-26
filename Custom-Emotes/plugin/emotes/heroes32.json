@@ -806,10 +806,45 @@
 			"type": "image",
 			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/flyff/Blush.png"
 		},
-		"-catface": {
+		"-coy": {
 			"size": 30,
 			"type": "image",
 			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/flyff/Cat-Face.png"
+		},
+		"-huh": {
+			"size": 30,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/flyff/Confused.png"
+		},
+		"-crazy": {
+			"size": 30,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/flyff/Crazy.png"
+		},
+		"-shame": {
+			"size": 30,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/flyff/Embarassed.png"
+		},
+		"-glare": {
+			"size": 30,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/flyff/Glare.png"
+		},
+		"-help": {
+			"size": 30,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/flyff/Help.png"
+		},
+		"-hungry": {
+			"size": 30,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/flyff/Hunger.png"
+		},
+		"-kiss": {
+			"size": 30,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/flyff/Kiss.png"
 		}
 	}
 }
