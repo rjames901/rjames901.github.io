@@ -786,15 +786,30 @@
 			"type": "image",
 			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/vindi/wink.png"
 		},
-		":ache:": {
+		"-ache": {
 			"size": 30,
 			"type": "image",
 			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/flyff/Ache.png"
 		},
-		":aha:": {
+		"-aha": {
 			"size": 30,
 			"type": "image",
 			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/flyff/Aha.png"
+		},
+		"-anger": {
+			"size": 30,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/flyff/Anger.png"
+		},
+		"-blush": {
+			"size": 30,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/flyff/Blush.png"
+		},
+		"-catface": {
+			"size": 30,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/flyff/Cat-Face.png"
 		}
 	}
 }
