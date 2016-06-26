@@ -19,7 +19,7 @@
 		"CoolDrink": {
 			"size": 50,
 			"type": "image",
-			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/MonHun/CoolDrink.png"
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/MonHun/ColdDrink.png"
 		},
 		"Deodorant": {
 			"size": 50,
@@ -44,7 +44,7 @@
 		"Paralyzed": {
 			"size": 50,
 			"type": "image",
-			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/MonHun/paralyzed.png"
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/MonHun/Paralyzed.png"
 		},
 		"Poisoned": {
 			"size": 50,
@@ -70,6 +70,11 @@
 			"size": 50,
 			"type": "image",
 			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/MonHun/Snowman.png"
+		},
+		"RedKezhu": {
+			"size": 60,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/MonHun/RedKezhu.png"
 		}
 	}
 }
