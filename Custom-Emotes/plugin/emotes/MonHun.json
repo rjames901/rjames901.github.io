@@ -1,0 +1,15 @@
+{
+	"name": "MonHun",
+	"emotes": {
+		"BlueKut-Ku": {
+			"size": 60,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/MonHun/BlueKut-Ku.png"
+		},
+		"BREATHE": {
+			"size": 50,
+			"type": "image",
+			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/MonHun/Breahte.png"
+		}
+	}
+}
