@@ -1,7 +1,7 @@
 Better Discord IS required so have it installed.
 
 1.) Unzip plugins.rar
-2.) Press Ctrl+R and type %appdata% then press Enter or Run
+2.) Press Windows Key+R and type %appdata% then press Enter or Run
 3.) place the file in %appdata%\Roaming\BetterDiscord\plugins
 4.) Restart Discord then go to Options
 5.) Click Better Discord
