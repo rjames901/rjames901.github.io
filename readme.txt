@@ -1,12 +1,13 @@
 Better Discord IS required so have it installed.
 
 1.) Unzip plugins.rar
-2.) place the file in %appdata%\Roaming\BetterDiscord\plugins
-3.) Restart Discord then go to Options
-4.) Click Better Discord
-5.) Go to plugins and enable the Custom Emotes Plugin
-6.) Restart Discord
-7.) Enjoy
+2.) Press Ctrl+R and type %appdata% then press Enter or Run
+3.) place the file in %appdata%\Roaming\BetterDiscord\plugins
+4.) Restart Discord then go to Options
+5.) Click Better Discord
+6.) Go to plugins and enable the Custom Emotes Plugin
+7.) Restart Discord
+8.) Enjoy
 
 Currently active emotes
 
