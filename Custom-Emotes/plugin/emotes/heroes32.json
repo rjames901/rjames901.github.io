@@ -178,7 +178,7 @@
 		},
 		"+chiefybattle": {
 			"size": 300,
-			"type": "time",
+			"type": "image",
 			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/vindi/chiefybattle.png"
 		},
 		"+델리아": {
