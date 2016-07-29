@@ -946,7 +946,7 @@
 			"type": "image",
 			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/vindi/xuran.png"
 		},
-		":D": {
+		":biggrin:": {
 			"size": 16,
 			"type": "image",
 			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/vindi/biggrin.png"
@@ -966,7 +966,7 @@
 			"type": "image",
 			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/vindi/eek.png"
 		},
-		":(": {
+		":frown:": {
 			"size": 16,
 			"type": "image",
 			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/vindi/frown.png"
@@ -976,7 +976,7 @@
 			"type": "image",
 			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/vindi/mad2.png"
 		},
-		":o": {
+		":redface:": {
 			"size": 16,
 			"type": "image",
 			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/vindi/redface.png"
@@ -986,17 +986,17 @@
 			"type": "image",
 			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/vindi/rolleyes.png"
 		},
-		":)": {
+		":smile:": {
 			"size": 16,
 			"type": "image",
 			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/vindi/smile2.png"
 		},
-		":p": {
+		":tounge:": {
 			"size": 16,
 			"type": "image",
 			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/vindi/tongue2.png"
 		},
-		";)": {
+		":wink:": {
 			"size": 16,
 			"type": "image",
 			"url": "https://rjames901.github.io/Custom-Emotes/plugin/emotes/icons/vindi/wink2.png"
